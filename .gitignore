@@ -1,0 +1,4 @@
+.DS_Store
+.src/metadata_file_stripper/__pycache__
+.ruff_cache
+.venv
