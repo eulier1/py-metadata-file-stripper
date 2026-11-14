@@ -8,7 +8,9 @@ How can I safely **share images** on **social media** and make it impossible or 
 
 In Buenos Aires summer is comming, so moskitos aswell. In my need to find a way to get rid of them, vacuum cleaners are a good since they are quite cheap, got 10kpas of succion pump and I do wanna run such experiement.
 
-Here is the demo of 2 hours and half navigating topics from : 
+Here is the demo of [2 hours](https://youtu.be/TkQNktWoU3Q) and half navigating topics from : 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TkQNktWoU3Q?start=90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - Image Representation
 - Why black (strong color) rectangles are effective to protect PII?
